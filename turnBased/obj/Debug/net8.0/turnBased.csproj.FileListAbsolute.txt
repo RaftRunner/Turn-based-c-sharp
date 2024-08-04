@@ -1,0 +1,14 @@
+C:\Users\Tyler\OneDrive\Desktop\C# projects\turnBased\bin\Debug\net8.0\turnBased.exe
+C:\Users\Tyler\OneDrive\Desktop\C# projects\turnBased\bin\Debug\net8.0\turnBased.deps.json
+C:\Users\Tyler\OneDrive\Desktop\C# projects\turnBased\bin\Debug\net8.0\turnBased.runtimeconfig.json
+C:\Users\Tyler\OneDrive\Desktop\C# projects\turnBased\bin\Debug\net8.0\turnBased.dll
+C:\Users\Tyler\OneDrive\Desktop\C# projects\turnBased\bin\Debug\net8.0\turnBased.pdb
+C:\Users\Tyler\OneDrive\Desktop\C# projects\turnBased\obj\Debug\net8.0\turnBased.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\OneDrive\Desktop\C# projects\turnBased\obj\Debug\net8.0\turnBased.AssemblyInfoInputs.cache
+C:\Users\Tyler\OneDrive\Desktop\C# projects\turnBased\obj\Debug\net8.0\turnBased.AssemblyInfo.cs
+C:\Users\Tyler\OneDrive\Desktop\C# projects\turnBased\obj\Debug\net8.0\turnBased.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\OneDrive\Desktop\C# projects\turnBased\obj\Debug\net8.0\turnBased.dll
+C:\Users\Tyler\OneDrive\Desktop\C# projects\turnBased\obj\Debug\net8.0\refint\turnBased.dll
+C:\Users\Tyler\OneDrive\Desktop\C# projects\turnBased\obj\Debug\net8.0\turnBased.pdb
+C:\Users\Tyler\OneDrive\Desktop\C# projects\turnBased\obj\Debug\net8.0\turnBased.genruntimeconfig.cache
+C:\Users\Tyler\OneDrive\Desktop\C# projects\turnBased\obj\Debug\net8.0\ref\turnBased.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "turnBased", "turnBased.csproj", "{3E23B6A4-E673-4620-BE35-2E9C8A119381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E23B6A4-E673-4620-BE35-2E9C8A119381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E23B6A4-E673-4620-BE35-2E9C8A119381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E23B6A4-E673-4620-BE35-2E9C8A119381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E23B6A4-E673-4620-BE35-2E9C8A119381}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74D88390-5319-41B8-AD94-78621E8A318A}
+	EndGlobalSection
+EndGlobal
